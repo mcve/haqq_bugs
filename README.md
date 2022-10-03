@@ -9,7 +9,9 @@ In the guide for getting started on the testnet, the old version of the binary f
 
 ## Fix suggestion:
 
-Replace the version of the binary file in the README.md file with the current one. **If the job is checked after block 355555 - 1.2.0. If before - 1.1.0**.  Next, I will attach a fix option after block 355555 and updating the binary file to version 1.2.0
+Replace the version of the binary file in the README.md file with the current one. **If the job is checked after block 355555 - 1.2.0. If before - 1.1.0**.  
+
+Next, I will attach a fix option after block 355555 and updating the binary file to version 1.2.0
 
 -------------------------------------------------
 
