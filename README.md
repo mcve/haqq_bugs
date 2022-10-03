@@ -3,11 +3,11 @@ For the quest "Bug Hunter!" in Crew3
 
 Binary version error in README.md on Github page: https://github.com/haqq-network/validators-contest/blob/master/README.md .
 
-The essence of the error:
+## The essence of the error:
 
 In the guide for getting started on the testnet, the old version of the binary file is indicated - **1.0.3**. The current version of the binary file is **1.1.0** . After block 355555 - **1.2.0**.
 
-Fix suggestion:
+## Fix suggestion:
 
 Replace the version of the binary file in the README.md file with the current one. **If the job is checked after block 355555 - 1.2.0. If before - 1.1.0**.
 
