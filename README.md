@@ -15,7 +15,7 @@ Next, I will attach a fix option after block 355555 and updating the binary file
 
 -------------------------------------------------
 
-Update binary haqqd to v1.2.0:
+Update binary haqqd to v1.2.0
 
 ```
 cd $HOME/haqq && \
@@ -33,7 +33,7 @@ commit: 58215364d5be4c9ab2b17b2a80cf89f10f6de38a
 
 --------------------------------------------------
 
-Install binary project:
+Install binary project
 
 ```
 cd $HOME && git clone https://github.com/haqq-network/haqq && \
